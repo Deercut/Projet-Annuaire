@@ -1,0 +1,84 @@
+
+.btnConnection:hover{
+	-fx-background-color: #E4F4F0;
+}
+
+.cursor-hand{
+	-fx-cursor: hand ;
+}
+
+.table-view .column-header-background {
+    -fx-background-color : transparent ;
+}
+.table-view.corner{  
+    -fx-background-color : transparent ;
+}
+
+.btnConnection{
+	-fx-background-color:  transparent;
+	}
+	
+	
+	.btnImprimer:hover{
+	-fx-background-color: #E4F4F0;
+}
+	.btnImprimer{
+		-fx-background-color:  transparent;
+	}
+	
+	.btnSearch:hover{
+	-fx-background-color: #E4F4F0; }
+	
+	
+	.btnSearch{
+		-fx-background-color:  transparent;}
+		
+		
+		.btnImprimer:hover{
+	-fx-background-color: #E4F4F0;
+}
+	.btnImprimer{
+		-fx-background-color:  transparent;
+	}
+		
+		
+.coNom{
+	-fx-background-color : transparent ;
+}
+
+.coPrenom{
+	-fx-background-color : transparent ;
+}
+
+.coTelephone{
+	 -fx-background-color : transparent ;
+}
+
+
+.table-view .virtual-flow .scroll-bar:vertical,
+.table-view .virtual-flow .scroll-bar:vertical .track,
+.table-view .virtual-flow .scroll-bar:vertical .track-background,
+.table-view .virtual-flow .scroll-bar:horizontal,
+.table-view .virtual-flow .scroll-bar:horizontal .track,
+.table-view .virtual-flow .scroll-bar:horizontal .track-background{
+	-fx-background-color: transparent;
+}
+
+
+.table-view .virtual-flow .scroll-bar .increment-button,
+.table-view .virtual-flow .scroll-bar .decrement-button{
+	-fx-opacity: 0;
+	-fx-padding: 2;
+}
+
+.table-view .virtual-flow .scroll-bar:horizontal .thumb{
+	-fx-background-color :  transparent;
+}
+.table-view .virtual-flow .scroll-bar:vertical .thumb{
+	-fx-background-color : transparent;
+}
+
+.table-row-cell:highlighted{
+	-fx-background-color: #1D8FA8;
+	-fx-background-radius: 20px;
+}

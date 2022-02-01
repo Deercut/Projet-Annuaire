@@ -1,0 +1,32 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+
+
+
+.transparent{
+	-fx-background-color: rgba(0.0,0.0,0.0,0.0);
+}
+
+.border-{
+	-fx-border-color: rgba(0.0,0.0,0.0,0.0);
+	-fx-border-width : 1.5;
+}
+
+.btnConnection{
+	-fx-background-color:  linear-gradient(to right top, #23e9e1, #1de7d3, #26e5c3, #37e3b2, #48e0a0, #47e0a4, #46e0a9, #45e0ad, #3fe2c5, #4be3d9, #62e3e8, #7de3f2);
+}
+
+.btnConnection:hover{
+	-fx-background-color: #3bc3ed;
+}
+
+.cursor-hand{
+	-fx-cursor: hand ;
+}
+
+
+
+
+
+
+
